@@ -1,0 +1,1 @@
+{"data_dir": "/work/remote_sensing/open_earth_map/OpenEarthMap_Mini", "img_size": 512, "N_CLASSES": 9, "batch_size": 8, "epoch": 120, "out_dir": "/work/remote_sensing/outputs/mit_b2_unet/Jaccard/b8_lr0.0001_sstep_lr", "encoder": "mit_b2", "decoder": "unet", "loss": "Jaccard", "lr": 0.0001, "scheduler": "step_lr"}

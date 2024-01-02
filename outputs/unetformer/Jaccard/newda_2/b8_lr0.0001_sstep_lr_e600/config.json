@@ -1,0 +1,1 @@
+{"data_dir": "/work/remote_sensing/open_earth_map/OpenEarthMap_Mini", "img_size": 512, "N_CLASSES": 9, "batch_size": 8, "epoch": 600, "out_dir": "/work/remote_sensing/outputs/unetformer/Jaccard/newda_2/b8_lr0.0001_sstep_lr_e600", "model": "unetformer", "loss": "Jaccard", "lr": 0.0001, "scheduler": "step_lr"}

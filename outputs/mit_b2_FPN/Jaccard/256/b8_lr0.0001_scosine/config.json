@@ -1,0 +1,1 @@
+{"data_dir": "/work/remote_sensing/open_earth_map/OpenEarthMap_Mini", "img_size": 256, "N_CLASSES": 9, "batch_size": 8, "epoch": 120, "out_dir": "/work/remote_sensing/outputs/mit_b2_FPN/Jaccard/256/b8_lr0.0001_scosine", "encoder": "mit_b2", "decoder": "FPN", "loss": "Jaccard", "lr": 0.0001, "scheduler": "cosine"}

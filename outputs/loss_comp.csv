@@ -1,0 +1,5 @@
+,loss,encoder,decoder,img_size,batch_size,epoch,lr,scheduler,score
+0,Jaccard,mit_b2,FPN,512,8,120,0.0001,step_lr,0.487226843787507
+1,CE,mit_b2,FPN,512,8,120,0.0001,step_lr,0.43280655411130203
+2,Jaccard,mit_b2,unet,512,8,120,0.0001,step_lr,0.510588099657167
+3,CE,mit_b2,unet,512,8,120,0.0001,step_lr,0.431550707495198

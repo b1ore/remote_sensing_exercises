@@ -1,0 +1,3 @@
+,data_aug,loss,encoder,decoder,img_size,batch_size,epoch,lr,scheduler,score
+0,flip,Jaccard,mit_b2,unet,512,8,120,0.0001,cosine,0.519850125588714
+1,flip,Jaccard,mit_b2,unet,512,8,120,0.0001,step_lr,0.5033412820148491

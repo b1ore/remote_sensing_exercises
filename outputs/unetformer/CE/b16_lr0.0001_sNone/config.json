@@ -1,0 +1,1 @@
+{"data_dir": "/work/remote_sensing/open_earth_map/OpenEarthMap_Mini", "img_size": 512, "N_CLASSES": 9, "batch_size": 16, "epoch": 30, "out_dir": "/work/remote_sensing/outputs/unetformer/CE/b16_lr0.0001_sNone", "model": "unetformer", "loss": "CE", "lr": 0.0001, "schedule": null}
